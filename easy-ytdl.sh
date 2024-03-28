@@ -100,7 +100,6 @@ check_format() {
 
 # Function to handle playlist URLs
 is_playlist_url() {
-  echo "in playlist url"
   # check if youtube url is playlist usrl
   [[ "$URL" =~ "list=" ]]
 }
