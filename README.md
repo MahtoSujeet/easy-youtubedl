@@ -22,7 +22,8 @@ This project is a port of [ThioJoe](https://github.com/ThioJoe/youtube-dl-easy)'
 
 ## Screenshot Preview
 
-![Script Screenshot](https://user-images.githubusercontent.com/12518330/88689286-282b4500-d0af-11ea-8053-ae4568144859.png)
+![Script Screenshot1](/assets/ss1.png)
+![Script Screenshot2](/assets/ss2.png)
 
 ## youtube-dl Links
 
