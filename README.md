@@ -52,4 +52,4 @@ If you come across weird errors, the first thing to try should be updating the y
 If you encounter issues, you can use the `-debug` command line argument to display helpful information for troubleshooting.
 
 ## Credits
-- `@ThioJoe` : Heavly inspired by this project by ThioJoe.
+- `@ThioJoe` : Heavly inspired by [this](https://github.com/ThioJoe/youtube-dl-easy) project by ThioJoe.
